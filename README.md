@@ -65,7 +65,7 @@ New to coding? Start with the [official Python website](https://www.python.org/)
 
 **Introduction:** The Student Learning Portal is a beginner-level web project that combines study resources, practice exercises, and progress tracking into a single, easy-to-use platform.
 
-**Author:** Pushkar
+**Author:** Rochna
 
 **Purpose:** To build hands-on skills in Markdown, Git, and GitHub while creating something genuinely useful for students who want to stay organized and consistent.
 
